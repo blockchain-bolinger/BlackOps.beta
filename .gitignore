@@ -1,0 +1,85 @@
+# Black Ops Framework .gitignore
+
+# API Keys und sensitive Daten
+secrets.json
+blackops_config.json
+*.key
+*.pem
+.env
+.env.local
+
+# Logs
+logs/
+!logs/.gitkeep
+
+# Reports
+reports/
+!reports/.gitkeep
+
+# Payloads
+payloads/
+!payloads/.gitkeep
+
+# Backups
+backups/
+!backups/.gitkeep
+
+# Temporäre Dateien
+tmp/
+!tmp/.gitkeep
+
+# Cache
+.cache/
+*.cache
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# Virtuelle Umgebungen
+venv/
+env/
+ENV/
+
+# System
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Test-Berichte
+test_reports/
+coverage.xml
+*.cover
+.hypothesis/
+.pytest_cache/
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# OS-spezifisch
+*.lnk
