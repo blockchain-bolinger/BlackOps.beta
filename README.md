@@ -5,55 +5,49 @@
 ![Platform](https://img.shields.io/badge/Platform-Linux%20%7C%20Windows%20%7C%20macOS-lightgrey)
 ![Version](https://img.shields.io/badge/Version-2.2-orange)
 
-**Black Ops** ist ein umfassendes, ethisches Cybersecurity-Framework für Penetration Tester, Red Teams und Sicherheitsforscher. Es kombiniert 15+ spezialisierte Tools in einer einheitlichen Plattform.
+**Black Ops** is a comprehensive, ethical cybersecurity framework for penetration testers, red teams, and security researchers. It combines 15+ specialized tools into a unified platform.
 
 ---
 
-## ⚠️ **WICHTIGER DISCLAIMER**
+## ⚠️ **IMPORTANT DISCLAIMER**
 
-> **Dieses Framework ist AUSSCHLIESSLICH für autorisierte Sicherheitstests und Bildungszwecke bestimmt.**
+> **This framework is STRICTLY intended for authorized security testing and educational purposes.**
 > 
-> **ERLAUBT:**
-> - Eigene Systeme und Netzwerke
-> - CTF-Wettbewerbe
-> - Sicherheitsforschung in isolierten Labs
-> - Autorisiertes Penetration Testing (mit schriftlicher Genehmigung)
+> **PERMITTED:**
+> - Own systems and networks
+> - CTF competitions
+> - Security research in isolated labs
+> - Authorized penetration testing (with written permission)
 > 
-> **VERBOTEN:**
-> - Angriffe auf Systeme ohne Erlaubnis
-> - Illegale Aktivitäten jeglicher Art
-> - Missbrauch der Tools für kriminelle Zwecke
+> **PROHIBITED:**
+> - Attacks on systems without permission
+> - Illegal activities of any kind
+> - Misuse of the tools for criminal purposes
 > 
-> **Illegaler Einsatz wird strafrechtlich verfolgt (§202a StGB).** Der Entwickler übernimmt keine Haftung für Missbrauch.
+> **Illegal use will be prosecuted (§202a StGB).** The developer assumes no liability for misuse.
 
 ---
 
-## ✨ **NEUE FEATURES v2.2**
+## ✨ **NEW FEATURES v2.2**
 
-- ✅ **Advanced Configuration Manager** - Zentrale Einstellungen, Verschlüsselung
-- ✅ **Comprehensive Logging System** - Strukturierte Logs, Audit-Trails
-- ✅ **Automatic Dependency Checker** - Selbstheilendes Setup
-- ✅ **Enhanced VenomMaker** - 8 Payload-Typen, Obfuscation, Cross-Platform
-- ✅ **Ethics-First Design** - Verantwortungsvolle Nutzung im Fokus
-- ✅ **Session Management** - Nachvollziehbare Operationen
-- ✅ **Report Generation** - Professionelle Dokumentation
+- ✅ **Advanced Configuration Manager** - Central settings, encryption
+- ✅ **Comprehensive Logging System** - Structured logs, audit trails
+- ✅ **Automatic Dependency Checker** - Self-healing setup
+- ✅ **Enhanced VenomMaker** - 8 payload types, obfuscation, cross-platform
+- ✅ **Ethics-First Design** - Focus on responsible use
+- ✅ **Session Management** - Traceable operations
+- ✅ **Report Generation** - Professional documentation
 
 ---
 
 ## 🛠️ **INSTALLATION**
 
-### **Option 1: Automatische Installation (Empfohlen)**
+### **Option 1: Automatic Installation (Recommended)**
 ```bash
-# 1. Repository klonen
-git clone https://github.com/yourusername/blackops-framework.git
+# 1. Clone repository
+git clone [https://github.com/bockchain-bolinger/blackops-framework.git](https://github.com/bockchain-bolinger/blackops-framework.git)
 cd blackops-framework
 
-# 2. Installationsskript ausführen
+# 2. Execute installation script
 chmod +x install.sh
 sudo ./install.sh
-
-
-
-
-
-
