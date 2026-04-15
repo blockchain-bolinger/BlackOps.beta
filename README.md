@@ -45,8 +45,8 @@
 ### **Option 1: Automatic Installation (Recommended)**
 ```bash
 # 1. Clone repository
-git clone [https://github.com/bockchain-bolinger/blackops.beta.git](https://github.com/bockchain-bolinger/blackops.beta.git)
-cd blackops.beta
+git clone [https://github.com/bockchain-bolinger/BlackOps.beta.git](https://github.com/bockchain-bolinger/BlackOps.beta.git)
+cd BlackOps.beta
 
 # 2. Execute installation script
 chmod +x install.sh
